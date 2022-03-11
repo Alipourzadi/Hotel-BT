@@ -1,0 +1,50 @@
+/* nav bar */
+#navbar .logo{
+    float:none;
+    text-align: center;
+}
+#navbar ul, #navbar ul li{
+    float:none;
+}
+#navbar ul li a{
+    padding: 5px;
+    border-bottom: 1px dotted #444;
+}
+/* home-info */
+#home-info{
+    height: 550px;
+}
+#home-info .info-img{
+    display: none;
+}
+#home-info .info-content{
+    float: none;
+    text-align: center;
+    width: 100%;
+}
+/* Boxes */
+.box{
+    float: none;
+    width: 100%;
+
+}
+/* About */
+#about-info  .info-right,#about-info .info-left{
+    float: none;
+    width: 100%;
+}
+#about-info  .info-right{
+    margin-top: 30px;
+}
+.l-heading{
+    float: none;
+    text-align: center;
+}
+/* Content */
+.container .btn{
+    position: relative;
+    left: 44%;
+    float: none;
+    text-align: center;
+
+}
